@@ -1,0 +1,4 @@
+facility_id,ownership_type,avg_cost_per_patient,admin_expense_ratio,census_volatility,is_fraud
+1001,For-Profit,295.4,0.22,15.7,0
+1002,Non-Profit,402.3,0.36,8.2,1
+1003,Government,310.9,0.18,9.5,0
